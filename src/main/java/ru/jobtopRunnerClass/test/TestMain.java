@@ -67,7 +67,6 @@ public class TestMain extends PreCondChrome {
                   listing.getListingCardTitle().click();
                   Assert.assertTrue(insideCard.getInsCardSpecAvto().has(Condition.text(x.getText())));
                   System.out.println("11hhhhhhhh");
-                  System.out.println("11hhhhhhhh");
              }
 
 
